@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/BPs/Interactives/BP_InteractItem_Painting.uasset
+Content/BPs/Interactives/BP_InteractItem_Photo.uasset
